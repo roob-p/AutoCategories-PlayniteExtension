@@ -1,0 +1,16 @@
+﻿Id: AutoCategories
+Name: AutoCategories
+Author: roob.p
+Version: 1.0.0.1
+Module: Autocategories.psm1
+Type: Script
+Icon: icon.jpg
+Links:
+    - Name: Github
+      Url: https://github.com/roob-p/AutoCategories-PlayniteExtension
+    - Name: Donate
+      Url: https://ko-fi.com/roobp		
+   
+      
+
+     

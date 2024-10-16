@@ -1,0 +1,2 @@
+EA app 		 = Origin
+Ubisoft Connect	 = Uplay
