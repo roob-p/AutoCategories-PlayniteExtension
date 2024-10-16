@@ -17,7 +17,5 @@ If you enjoy the extension, you can buy me a coffee. It will be very appreciated
 
 
 
-![](https://github.com/roob-p/AutoCategories-PlayniteExtension/blob/main/1.gif)
-![](https://github.com/roob-p/AutoCategories-PlayniteExtension/blob/main/2.gif)
-![](https://github.com/roob-p/AutoCategories-PlayniteExtension/blob/main/3.gif)
+
 
