@@ -2,7 +2,7 @@
 
 This extension will automatically add, create and apply "platform/source" categories to your games, making easy to organize your library especially after importing new games. 
 
-- In Platforms.txt you can specify short game's platform names for the categories (for example: Nintento Entertainment System -> Nintendo NES, Sony Playstation 2 -> Sony PS2, etc).
+- In Platforms.txt you can specify short game's platform names for the categories (for example: Nintendo Entertainment System -> Nintendo NES, Sony Playstation 2 -> Sony PS2, etc).
 - You can also add sources like Ea App, Ubisoft Connect and add short names (like Origin, Uplay) or whatever you want.   
 - If there's no category for an imported game's platform/source, a new category with platform/source's name will be created.
 - Existing categories will not be deleted and the new category will be added to them.
