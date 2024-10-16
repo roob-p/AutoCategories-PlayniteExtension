@@ -16,9 +16,9 @@ If you enjoy the extension, you can buy me a coffee. It will be very appreciated
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/E1E214R1KB)
 
 
-![](https://github.com/roob-p/AutoCategories-PlayniteExtension/blob/main/media/1.gif)
-![](https://github.com/roob-p/AutoCategories-PlayniteExtension/blob/main/media/3.gif)
-![](https://github.com/roob-p/AutoCategories-PlayniteExtension/blob/main/media/2.gif)
+![](https://github.com/roob-p/AutoCategories-PlayniteExtension/blob/main/gifs/1.gif)
+![](https://github.com/roob-p/AutoCategories-PlayniteExtension/blob/main/gifs/3.gif)
+![](https://github.com/roob-p/AutoCategories-PlayniteExtension/blob/main/gifs/2.gif)
 
 
 
