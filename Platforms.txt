@@ -22,3 +22,4 @@ NEC TurboGrafx 16			=	Nec PC Engine
 NEC TurboGrafx-CD			=	Nec Pc Engine
 NEC SuperGrafx				=	Nec Pc Engine
 NEC PC Engine SuperGrafx		=	Nec Pc Engine
+Nintendo Game Boy Color			=	Nintendo Game Boy Color

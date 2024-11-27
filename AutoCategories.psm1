@@ -38,6 +38,7 @@ function vai
 $arrgame=@()
 $arrcat=@()
 $arr=@{}
+$senzaplatform=""
 
 
 $Gamesel = $PlayniteApi.MainView.SelectedGames
@@ -48,7 +49,10 @@ $gameI = $PlayniteApi.Database.Games[$game.id]
 
 
 $catName = $game.platforms.name
-$catName = $catName.Split(',')[0] #In caso di giochi con più piattaforme selezionate prende la prima piattaforma (subito prima della virgola).
+
+#$catName = $catName.Split(',')[0] #In caso di giochi con più piattaforme selezionate prende la prima piattaforma (subito prima della virgola).
+if($catName -ne $null) {$catName = $catName.Split(',')[0]} #In caso di giochi con più piattaforme selezionate prende la prima piattaforma (subito prima della virgola). #new
+
 
 
 
@@ -61,13 +65,16 @@ $nomibrevi = @{}
 
 
 
-$catNameS=$nomibrevi[$catname]
+#$catNameS=$nomibrevi[$catname]
+if($catName -ne $null) {$catNameS=$nomibrevi[$catname]}
 
 
 
 
 
 if (!$game.source.name){ #Se la sorgente è vuota
+
+if ($catName -ne $null){ #se la piattaforma del gioco non è vuota
 
 if($nomibrevi.Containskey($catName)){ #Se la categoria esiste già aggiunge il gioco alla categoria, altrimenti crea una nuova categoria col nome della piattaforma.
 	
@@ -103,14 +110,26 @@ if ($gameI.CategoryIds.Contains($category.Id)) {
 	$gameI.CategoryIds=$null # "Svuota" cosa in realtà non era stato eliminato.
 	$gameI.CategoryIds += $category.Id
 	
+	
+#$arrgame+=$game.name    #!!!
+#$arrcat+=$category.name
+	
 
 
 }
 
 
 $PlayniteApi.Database.Games.Update($gameI)
+$arrgame+=$game.name    #!!!
+$arrcat+=$category.name
 
-
+}#endif la piattaforma esiste
+else { #la piattaforma non esiste
+	
+$arrgame+=$game.name
+$arrcat+="SENZA PIATTAFORMA!"
+	
+}
 
 }#endif source empty check
 else{ #Se c'è la sorgente:
@@ -148,14 +167,20 @@ if ($gameI.CategoryIds.Contains($category.Id)) {
 }
 		$PlayniteApi.Database.Games.Update($gameI)
 		
+		
+$arrgame+=$game.name    #!!!
+$arrcat+=$category.name
+		
 
 }#else (sorgente)
 	
 
 	
 
-$arrgame+=$game.name
-$arrcat+=$category.name
+##$arrgame+=$game.name    #!!!
+##$arrcat+=$category.name
+
+
 
 
 
@@ -167,6 +192,7 @@ $arrcat+=$category.name
 
 
 foreach ($categoria in $arrcat) {
+	#$PlayniteApi.Dialogs.ShowMessage("3")
   
     $giochi = @()
 
@@ -181,6 +207,8 @@ foreach ($categoria in $arrcat) {
 
     
     $arr[$categoria] = $giochi
+
+	
 }
 
 
