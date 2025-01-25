@@ -1,6 +1,6 @@
 # AutoCategories-PlayniteExtension:
 
-This extension will automatically add, create and apply "platform/source" categories to your games, making it easy to organize your library especially after importing new games 
+This extension will automatically add, create and apply "platform/source" categories to your games, making it easy to organize your library especially after importing new games. 
 
 - In Platforms.txt you can specify short game's platform names for the categories (for example: Nintendo Entertainment System -> Nintendo NES, Sony Playstation 2 -> Sony PS2, etc).
 - You can also add sources like Ea App, Ubisoft Connect and add short names (like Origin, Uplay) or whatever you want.   
