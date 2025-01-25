@@ -19,9 +19,9 @@ If you enjoy the extension, you can buy me a coffee. It will be very appreciated
 - Download last version:
 [v1.0.2](https://github.com/roob-p/CoverStyleSwitcher-PlayniteExtension/releases/download/v1.02/AutoCategoriesv1.0.2.pext)
 
-![](https://raw.githubusercontent.com/roob-p/AutoCategories-PlayniteExtension/blob/main/media/1.gif)
-![](https://raw.githubusercontent.com/roob-p/AutoCategories-PlayniteExtension/blob/main/media/3.gif)
-![](https://raw.githubusercontent.com/roob-p/AutoCategories-PlayniteExtension/blob/main/media/2.gif)
+![](https://raw.githubusercontent.com/roob-p/AutoCategories-PlayniteExtension/main/media/1.gif)
+![](https://raw.githubusercontent.com/roob-p/AutoCategories-PlayniteExtension/main/media/3.gif)
+![](https://raw.githubusercontent.com/roob-p/AutoCategories-PlayniteExtension/main/media/2.gif)
 
 
 
