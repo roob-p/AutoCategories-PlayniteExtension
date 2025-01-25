@@ -15,6 +15,8 @@ If you enjoy the extension, you can buy me a coffee. It will be very appreciated
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/E1E214R1KB)
 
+- Download last version:
+[v1.0.2](https://github.com/roob-p/AutoCategories-PlayniteExtension/releases/download/v1.0.2/Autocategories_v1.0.2.pext)
 - Install directly:
   [AutoCategories](https://playnite.link/addons.html#AutoCategories)
 
