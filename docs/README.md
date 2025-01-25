@@ -1,3 +1,4 @@
+[🔙 Back](https://roob-p.github.io)
 # AutoCategories-PlayniteExtension:
 
 This extension will automatically add, create and apply "platform/source" categories to your games, making it easy to organize your library especially after importing new games. 
