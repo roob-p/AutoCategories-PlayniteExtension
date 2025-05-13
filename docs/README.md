@@ -1,8 +1,15 @@
 <!--[![🔙 Back](https://img.shields.io/badge/🔙-Back-blue)](https://roob-p.github.io)--> 
 [![🔙 Back](https://img.shields.io/badge/🔙-Back-white?style=flat-square&logoColor=blue&color=blue)](https://roob-p.github.io)
 # 🧩 AutoCategories (Playnite Extension)
+✨ Automatically organize your Playnite library with custom platform/source categories. Ideal for emulator users and large collections.
 
 This extension will automatically add, create and apply "platform/source" categories to your games, making it easy to organize your library especially after importing new games. 
+ 
+### ➡️ Why use it?
+It allows you to quickly filter games across different platforms in a much more intuitive and responsive way compared to Playnite's built-in "Platform" and "Library" filters.
+This is especially useful if you use emulators or have a mixed-platform collection.
+
+### ⚙️ How it works:
 
 - In Platforms.txt you can specify short game's platform names for the categories (for example: Nintendo Entertainment System -> Nintendo NES, Sony Playstation 2 -> Sony PS2, etc).
 - You can also add sources like Ea App, Ubisoft Connect and add short names (like Origin, Uplay) or whatever you want.   
@@ -16,6 +23,7 @@ This extension will automatically add, create and apply "platform/source" catego
 If you enjoy the extension, you can buy me a coffee. It will be very appreciated ;)
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/E1E214R1KB)
+
 
 - Github: [roop-p/AutoCategories-PlayniteExtension](https://github.com/roob-p/AutoCategories-PlayniteExtension/)
 - Download last version:
