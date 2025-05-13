@@ -17,7 +17,7 @@ This is especially useful if you use emulators or have a mixed-platform collecti
 - In Platforms.txt and Source.txt there are already some platforms and sources. You can edit these two files without having to reload the extension.  
 - In future I'll add the possibility to specify and add more categories per platform (for example: Nintendo Game Boy Color -> Nintendo Game Boy; Nintendo Game Boy Color).
 
-☕ Like the extension?
+
 If you enjoy the extension, you can buy me a coffee. It will be very appreciated ;)
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/E1E214R1KB)
