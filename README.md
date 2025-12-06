@@ -1,4 +1,4 @@
-# 🧩 AutoCategories (Playnite Extension)
+# 🧩 Quick Platform Categories (Playnite Extension)
 ✨ Automatically organize your Playnite library with custom platform/source categories. Ideal for emulator users and large collections.
 
 This extension will automatically add, create and apply "platform/source" categories to your games, making it easy to organize your library especially after importing new games. 
