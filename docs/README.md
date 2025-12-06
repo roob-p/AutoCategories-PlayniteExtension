@@ -29,7 +29,7 @@ If you enjoy the extension, you can buy me a coffee. It will be very appreciated
 - Download last version:
 [v1.0.2](https://github.com/roob-p/AutoCategories-PlayniteExtension/releases/download/v1.0.2/Autocategories_v1.0.2.pext)
 - Install directly:
-  [AutoCategories](https://playnite.link/addons.html#AutoCategories)
+  [QuickPlatformCategories](https://playnite.link/addons.html#AutoCategories)
 
 ![](https://raw.githubusercontent.com/roob-p/AutoCategories-PlayniteExtension/main/media/1.gif)
 ![](https://raw.githubusercontent.com/roob-p/AutoCategories-PlayniteExtension/main/media/3.gif)
